@@ -1,5 +1,5 @@
 ## Color Picker
-- A rich and functinal Color Picker with everyday usefull features.
+- A rich and functional Color Picker with everyday useful features.
 
 # Features
 - Color Picker with hex, rgb, hsl values and eyedropper to pick color from any website and other's etc.
