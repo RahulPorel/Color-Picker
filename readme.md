@@ -2,7 +2,7 @@
 - A rich and functional Color Picker with everyday useful features.
 
 # Features
-- Color Picker with hex, rgb, hsl values and eyedropper to pick color from any website and other's etc.
+- Color Picker with RGB, HSL, HEX values and eyedropper to pick color from any website and other's etc.
 - Random Color palette for your generate every time you refersh page or click btn to referesh manally
 - Click on your prefered color and it will copy hex value to your device clipboard for you.
 
