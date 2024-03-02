@@ -3,9 +3,9 @@
 
 # Features
 - Color Picker with RGB, HSL, HEX values and eyedropper button to pick exact color from any website or any other's stuffs too.
-- If you are not sure or confuse that what color should i use on my next project then don't worry it will generate 5 great color palette which you can use across your website to make good 
-  looking. 
-- Random Color palette for your generate every time you refersh page or click btn to referesh manally
+- If you are not sure or confuse that what color should i use on my next project then don't worry below Color Picker you will find five great color palette generates for you which you can 
+  use across your website to make good looking. 
+- Random Color palette for your generate every time you refersh page or click btn to referesh manally.
 - Click on your prefered color and it will copy hex value to your device clipboard for you.
 
 # Live Demo 👁️
